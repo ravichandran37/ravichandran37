@@ -1,96 +1,65 @@
-# Hi 👋 I'm Ravichandran
+<div align="center">
 
-💻 Full Stack Developer
-📍 India
+# 👋 Hi, I'm Ravichandran
 
-I build modern web and mobile applications using
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=00CFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Django+%7C+Node.js;React+Native+Developer;AI+Enthusiast;Building+Modern+Web+%26+Mobile+Apps+🚀" />
 
-- Django
-- React
-- React Native
-- Node.js
-- PostgreSQL
-- Prisma
+### 💻 Full Stack Developer | 🚀 AI Enthusiast | 📱 Mobile Developer
 
-## 🚀 Current Projects
-
-🔹 Wayzo Mobile App
-🔹 AI Chatbot
-🔹 Ponnar Trust Website
-
-## Tech Stack
-
-React
-Django
-Node.js
-Express
-PostgreSQL<div align="center">
-
-# Hi there 👋 I'm Ravichandran
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Django+%7C+Node.js;Mobile+App+Developer;AI+Enthusiast;Always+Learning+New+Things+🚀" />
-
-<img src="https://komarev.com/ghpvc/?username=ravichandran37&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/ravichandran37?style=for-the-badge&logo=github&label=Followers"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-💻 Passionate **Full Stack Developer** from **India 🇮🇳**
+```javascript
+const ravichandran = {
+    role: "Full Stack Developer",
+    location: "India 🇮🇳",
 
-🚀 I enjoy building
+    frontend: [
+        "React",
+        "Next.js",
+        "Tailwind CSS"
+    ],
 
-- Modern Web Applications
-- Mobile Apps
-- AI Powered Tools
-- Backend APIs
-- Beautiful User Interfaces
+    backend: [
+        "Django",
+        "Node.js",
+        "Express"
+    ],
 
-🌱 Currently Working On
+    database: [
+        "PostgreSQL",
+        "MongoDB",
+        "Prisma"
+    ],
 
-- 🚀 Wayzo Mobile App
-- 🤖 AI Chatbot
-- 🌐 Ponnar Trust Platform
+    mobile: [
+        "React Native",
+        "Expo"
+    ],
 
-🎯 Goal
+    currentlyBuilding: [
+        "Wayzo Mobile App",
+        "AI Chatbot",
+        "Ponnar Trust Website"
+    ],
 
-> Build products that are fast, scalable, and beautiful.
+    motto: "Turning ideas into real-world applications 🚀"
+}
+```
 
 ---
 
-# ⚡ Tech Stack
+# 🚀 Tech Stack
 
-### Frontend
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,vite" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,django,nodejs,express,python,postgres,mongodb,prisma,tailwind,js,ts,git,github,vscode,figma,linux"/>
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,nodejs,express,python" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
-</p>
-
-### Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,linux" />
 </p>
 
 ---
@@ -99,65 +68,79 @@ PostgreSQL<div align="center">
 
 | Project | Description |
 |---------|-------------|
-| 🚀 Wayzo | AI Travel & Mobile Platform |
-| 🤖 AI Chatbot | Custom AI Assistant |
-| ❤️ Ponnar Trust | NGO Management Platform |
-| 📄 Resume Builder | ATS Friendly Resume Generator |
+| 🚀 Wayzo | AI-powered Travel Platform |
+| 🤖 AI Chatbot | AI Assistant |
+| ❤️ Ponnar Trust | NGO Management System |
+| 📄 Resume Builder | ATS Resume Generator |
 | 🌐 Portfolio | Personal Portfolio Website |
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ravichandran37&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ravichandran37&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravichandran37&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ravichandran37&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravichandran37&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravichandran37&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ravichandran37&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ravichandran37&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravichandran37&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌍 Connect With Me
+# 🏆 GitHub Achievements
 
-<p>
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ravichandran37&theme=algolia&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- 🤖 Artificial Intelligence
+- ⚡ React Native
+- ☁️ Cloud Deployment
+- 🧠 Large Language Models
+- 🏗️ System Design
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
 
 <a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/your-linkedin">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://yourportfolio.com">
+<a href="https://your-portfolio.com">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -167,21 +150,8 @@ PostgreSQL<div align="center">
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+## ⭐ Thanks for Visiting!
 
-*"Code. Build. Learn. Repeat."* 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,100:6C63FF&height=120&section=footer"/>
 
 </div>
-Prisma
-Tailwind CSS
-Expo
-
-## GitHub Stats
-
-<!-- Stats cards -->
-
-## Connect
-
-LinkedIn
-Portfolio
-Email
