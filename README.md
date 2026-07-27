@@ -246,11 +246,11 @@ Contributing to the core engineering team focused on building resilient cloud-na
 ## 10. GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ravichandran37&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=a6adc8&icon_color=8A2BE2&cache_seconds=86400" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravichandran37&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&sideNums=a6adc8&currStreakNum=ffffff&sideLabels=a6adc8&dates=a6adc8" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ravichandran37&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=a6adc8&icon_color=8A2BE2&v=999" alt="GitHub Stats" width="48%">
+  <img src="https://streak-stats.demolab.com/?user=ravichandran37&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&sideNums=a6adc8&currStreakNum=ffffff&sideLabels=a6adc8&dates=a6adc8&v=999" alt="GitHub Streak" width="48%">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ravichandran37&layout=compact&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=a6adc8&cache_seconds=86400" alt="Top Languages" width="60%">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ravichandran37&layout=compact&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=a6adc8&v=999" alt="Top Languages" width="60%">
 </p>
 
 ---
@@ -259,7 +259,7 @@ Contributing to the core engineering team focused on building resilient cloud-na
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ravichandran37&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7&cache_seconds=86400" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=ravichandran37&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7&v=999" alt="GitHub Trophies">
   </a>
 </p>
 
