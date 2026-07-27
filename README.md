@@ -9,24 +9,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Com_Computer_Applications-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic Badge">
-  <img src="https://img.shields.io/badge/Software_Engineer-000000?style=for-the-badge&logo=codeforces&logoColor=8A2BE2" alt="Software Engineer">
-  <img src="https://img.shields.io/badge/AI_Engineer-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineer">
-  <img src="https://img.shields.io/badge/Open_Source-000000?style=for-the-badge&logo=github&logoColor=8A2BE2" alt="Open Source">
-  <img src="https://img.shields.io/badge/India-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/B.Com_Computer_Applications-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Academic Badge"> <img src="https://img.shields.io/badge/Software_Engineer-000000?style=for-the-badge&logo=codeforces&logoColor=8A2BE2" alt="Software Engineer"> <img src="https://img.shields.io/badge/AI_Engineer-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineer"> <img src="https://img.shields.io/badge/Open_Source-000000?style=for-the-badge&logo=github&logoColor=8A2BE2" alt="Open Source"> <img src="https://img.shields.io/badge/India-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=8A2BE2" alt="Portfolio"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:contact@nexwe.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2" alt="Email"></a>
-  <a href="https://github.com/ravichandran37"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=8A2BE2" alt="Portfolio"></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:contact@nexwe.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2" alt="Email"></a> <a href="https://github.com/ravichandran37"><img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravichandran37&color=8A2BE2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/ravichandran37?color=000000&style=flat-square&logo=github&label=FOLLOWERS" alt="Followers">
-  <img src="https://img.shields.io/github/stars/ravichandran37?color=8A2BE2&style=flat-square&logo=github&label=STARS" alt="Stars">
+  <img src="https://komarev.com/ghpvc/?username=ravichandran37&color=8A2BE2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"> <img src="https://img.shields.io/github/followers/ravichandran37?color=000000&style=flat-square&logo=github&label=FOLLOWERS" alt="Followers"> <img src="https://img.shields.io/github/stars/ravichandran37?color=8A2BE2&style=flat-square&logo=github&label=STARS" alt="Stars">
 </p>
 
 ---
@@ -123,7 +114,7 @@ A localized, fully conversational, multi-agent AI assistant designed for high-ef
 | **Security** | Zero-telemetry offline execution environment |
 | **Deployment** | Containerized Docker stack on Linux |
 | **Impact** | Reduced daily task overhead by 40% through voice-activated scripts |
-| **Repository** | `github.com/ravichandran37/jarvis-ai-agent` |
+| **Repository** | `github.com/ravichandran37/jarvis-text-bot_` |
 
 *Enterprise Context:* Demonstrates proficiency in orchestrating complex, localized LLM pipelines utilizing LangGraph for dynamic state management. The project mirrors enterprise requirements for secure, air-gapped AI deployments while maintaining robust latency standards.
 </details>
@@ -143,7 +134,7 @@ A comprehensive B2B IT services ecosystem providing automated client onboarding,
 | **Security** | JWT-based auth, Role-Based Access Control (RBAC), CSRF protection |
 | **Deployment** | AWS EC2 with Nginx reverse proxy and Gunicorn |
 | **Impact** | Digitized 100% of client workflows for a nascent IT consultancy |
-| **Repository** | `github.com/ravichandran37/nexwe-platform` |
+| **Repository** | `github.com/ravichandran37/backend_Administrator` |
 
 *Enterprise Context:* Showcases full-stack engineering maturity and the ability to drive a product from zero to one. The architecture emphasizes maintainability, secure data handling with MongoDB, and the capacity to scale web infrastructure reliably.
 </details>
@@ -163,7 +154,7 @@ A real-time financial analytics dashboard utilizing machine learning to forecast
 | **Security** | Rate-limited API gateways and secure credential vaulting |
 | **Deployment** | Vercel (Frontend) / Heroku (Backend) |
 | **Impact** | Provided high-accuracy predictive charting for market analysis |
-| **Repository** | `github.com/ravichandran37/dash-stock-forecaster` |
+| **Repository** | `github.com/ravichandran37/wayzo_frontend` |
 
 *Enterprise Context:* Illustrates deep capabilities in data engineering and visualization. Integrating Dash with Django demonstrates the ability to blend robust backend logic with data-intensive, responsive frontend requirements essential for enterprise fintech tools.
 </details>
@@ -212,16 +203,10 @@ Contributing to the core engineering team focused on building resilient cloud-na
 ## 8. Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle_Certified_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Certified_Azure_Developer-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Oracle_Certified_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft_Certified_Azure_Developer-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Google_Cloud_Professional_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-  <img src="https://img.shields.io/badge/NPTEL_Python_For_Data_Science-8A2BE2?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/IBM_Applied_AI_Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white">
-  <img src="https://img.shields.io/badge/Meta_Back--End_Developer-0467DF?style=for-the-badge&logo=meta&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Cloud_Professional_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/NPTEL_Python_For_Data_Science-8A2BE2?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/IBM_Applied_AI_Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white"> <img src="https://img.shields.io/badge/Meta_Back--End_Developer-0467DF?style=for-the-badge&logo=meta&logoColor=white">
 </p>
 
 ---
@@ -229,19 +214,13 @@ Contributing to the core engineering team focused on building resilient cloud-na
 ## 9. Coding Profiles
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
 </p>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
 </p>
 
 ---
-
-
 
 ## 10. GitHub Analytics
 
@@ -262,6 +241,8 @@ Contributing to the core engineering team focused on building resilient cloud-na
     <img src="https://github-profile-trophy.vercel.app/?username=ravichandran37&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7&timestamp=20260727" alt="GitHub Trophies">
   </a>
 </p>
+
+---
 
 ## 12. Contribution Activity
 
