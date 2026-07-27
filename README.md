@@ -259,7 +259,7 @@ Contributing to the core engineering team focused on building resilient cloud-na
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ravichandran37&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7&v=999" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=ravichandran37&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7&timestamp=20260727" alt="GitHub Trophies">
   </a>
 </p>
 
